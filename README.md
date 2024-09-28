@@ -1,15 +1,15 @@
-# SALES-PERFORMANCE
+ # SALES-PERFORMANCE
 
 ## Overview
 
-This sales dashboard was created to analyze the performance of various key metrics in sales, including revenue, profit, and order quantities across different dimensions such as customers, products, regions, channels, and warehouses. The interactive dashboard allows stakeholders to view top performers, understand geographic trends, and assess channel and warehouse efficiencies. The data was cleaned using Power Query, SQL was used for Q&A analysis, and Power BI was leveraged for data visualization.
+This sales dashboard was created to analyze the performance of various key metrics in sales, including revenue, profit, and order quantities across different dimensions such as customers, products, regions, channels, and warehouses. The interactive dashboard allows stakeholders to view top performers, understand geographic trends, and assess channel and warehouse efficiencies. The data was cleaned using 'Power Query', "SQL" was used for Q&A analysis, and "Power BI" was leveraged for data visualization.
 
-## Objectives
-###The primary objective of this sales dashboard is to:
-•	Monitor and analyze sales performance at various levels (e.g., customer, region, product, and channel).
-•	Provide key insights into top revenue-generating customers and regions.
-•	Track order quantity distribution and profit margins across channels and warehouses.
-•	Identify performance bottlenecks and potential areas for improvement in sales and logistics.
+### Objectives
+The primary objective of this sales dashboard is to:
+*	Monitor and analyze sales performance at various levels (e.g., customer, region, product, and channel).
+*	Provide key insights into top revenue-generating customers and regions.
+*	Track order quantity distribution and profit margins across channels and warehouses.
+*	Identify performance bottlenecks and potential areas for improvement in sales and logistics.
 
 ## Aim
 ###The dashboard aims to:

@@ -1,6 +1,7 @@
 # SALES-PERFORMANCE
 
 #Overview
+
 This sales dashboard was created to analyze the performance of various key metrics in sales, including revenue, profit, and order quantities across different dimensions such as customers, products, regions, channels, and warehouses. The interactive dashboard allows stakeholders to view top performers, understand geographic trends, and assess channel and warehouse efficiencies. The data was cleaned using Power Query, SQL was used for Q&A analysis, and Power BI was leveraged for data visualization.
 
 #Objectives
